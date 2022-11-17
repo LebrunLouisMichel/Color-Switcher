@@ -13,6 +13,7 @@
 		DBCB84C629265ABC00641F1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBCB84C429265ABC00641F1D /* Main.storyboard */; };
 		DBCB84C829265ABD00641F1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBCB84C729265ABD00641F1D /* Assets.xcassets */; };
 		DBCB84CB29265ABD00641F1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBCB84C929265ABD00641F1D /* LaunchScreen.storyboard */; };
+		DBCB84D3292663DD00641F1D /* RGBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBCB84D2292663DD00641F1D /* RGBViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DBCB84C729265ABD00641F1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DBCB84CA29265ABD00641F1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DBCB84CC29265ABD00641F1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBCB84D2292663DD00641F1D /* RGBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DBCB84C029265ABC00641F1D /* SceneDelegate.swift */,
 				DBCB84C229265ABC00641F1D /* ViewController.swift */,
 				DBCB84C429265ABC00641F1D /* Main.storyboard */,
+				DBCB84D2292663DD00641F1D /* RGBViewController.swift */,
 				DBCB84C729265ABD00641F1D /* Assets.xcassets */,
 				DBCB84C929265ABD00641F1D /* LaunchScreen.storyboard */,
 				DBCB84CC29265ABD00641F1D /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBCB84D3292663DD00641F1D /* RGBViewController.swift in Sources */,
 				DBCB84C329265ABC00641F1D /* ViewController.swift in Sources */,
 				DBCB84BF29265ABC00641F1D /* AppDelegate.swift in Sources */,
 				DBCB84C129265ABC00641F1D /* SceneDelegate.swift in Sources */,
